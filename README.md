@@ -15,5 +15,7 @@ location is found from the `.libPaths()` function in R
 
 The files in `/home/ec2-user/R/x86_64-pc-linux-gnu-library/4.1` were copied here.
 
+Note that this repository uses Git LFS: https://git-lfs.github.com/
+
 # References
 * https://docs.rstudio.com/resources/install-r/
